@@ -1,12 +1,12 @@
 # API-products
 
-# 🛒 Product Management API
+# Product Management API
 
 This is a **RESTful API** built with **Go (Golang)** to manage products, allowing for creation, retrieval, updating, and deletion.
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 - **Go (Golang)**
 - **Gin** – HTTP framework
@@ -17,7 +17,7 @@ This is a **RESTful API** built with **Go (Golang)** to manage products, allowin
 
 ---
 
-## 📌 Features
+##  Features
 
 - ✅ Create a product (`POST /products`)
 - ✅ List all products (`GET /products`)
@@ -28,7 +28,7 @@ This is a **RESTful API** built with **Go (Golang)** to manage products, allowin
 
 ---
 
-## 📦 How to Run the Project
+## How to Run the Project
 
 ### Prerequisites:
 - Go installed
@@ -49,11 +49,11 @@ docker-compose up -d
 go run main.go
 
 
-🧪 Testing
+ Testing
 You can test the routes using Postman. A collection file can be added later with request examples.
 
 
-📚 Learning Outcomes
+ Learning Outcomes
 This project strengthens skills in:
 
 Building REST APIs with Go
@@ -67,7 +67,7 @@ Using Docker containers
 Best practices with Git & GitHub
 
 
-📫 Contact
+ Contact
 LinkedIn: Maycon Vyctor
 
 GitHub: @MayconVyctor
