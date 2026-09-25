@@ -1,4 +1,4 @@
-# API-products
+# Golang-ProductManagerAP
 
 # Product Management API
 
