@@ -19,12 +19,12 @@ This is a **RESTful API** built with **Go (Golang)** to manage products, allowin
 
 ##  Features
 
-- ✅ Create a product (`POST /products`)
-- ✅ List all products (`GET /products`)
-- ✅ Get a product by ID (`GET /products/:id`)
-- ✅ Update a product (`PUT /products/:id`)
-- ✅ Update only stock (`PATCH /products/:id/stock`)
-- ✅ Delete a product (`DELETE /products/:id`)
+-  Create a product (`POST /products`)
+-  List all products (`GET /products`)
+-  Get a product by ID (`GET /products/:id`)
+- Update a product (`PUT /products/:id`)
+- Update only stock (`PATCH /products/:id/stock`)
+- Delete a product (`DELETE /products/:id`)
 
 ---
 
